@@ -1,8 +1,6 @@
 # Biography
 Currently pursuing Computer Engineer from Nirma University, Ahmedabad, India. Worked across diverse domains like Computer Vision, Image Processing, Medical Imaging, Satellite Imagery, Generative and Adversial Networks in the field of Artificial Intelligence and Machine Learning from the past 1.5 years. I have been associated with various clubs and societies for organizing various events. Apart from academic activities, I am a trained classical singer and Ex Joint Secretary of ISTE Students' Chapter.
 
-Here's a link to my [CV](https://drive.google.com/open?id=1v3fyuGG-6H4WClDrxwbKQcopWUetmqOP), [Résumé](https://drive.google.com/open?id=1GwISSaAyxVZ6TGWhoMOMQH6I59eFZfhb).
-
 # Education
 - Bachelor's - Nirma University, Ahmedabad 
 - High School - Shiv Jyoti Convent School, Kota
