@@ -31,6 +31,11 @@ Currently, I am involved in a research project of Multiple Organ Segmentation an
 - Implemented YOLO v2/v3 on custom objects which converts high resolution images to low resolution images and try to detect the objects.
 - Worked on Retinanet (RESNET50) which maintains the quality of image. 
 - Currently working on Satellite Images.
+
+#### Multi-organ Segmentation
+- Performed multi-organ segmentation on 8 organs of the human body.
+- The organs included the pancreas, three organs fronm gastrointestinal tract (esophagus, stomach and duodenum), liver, gallbladder, spleen and left kidney.
+
 <img src="img/input.gif" alt="pic" class="inline"/><br>
 <img src="img/output.gif" alt="gif" class="inline"/><br>
 
