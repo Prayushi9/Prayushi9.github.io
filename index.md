@@ -31,7 +31,8 @@ Currently, I am involved in a research project of Multiple Organ Segmentation an
 - Implemented YOLO v2/v3 on custom objects which converts high resolution images to low resolution images and try to detect the objects.
 - Worked on Retinanet (RESNET50) which maintains the quality of image. 
 - Currently working on Satellite Images.
-<img src="img/pic1.jpg" alt="pic" class="inline"/><br>
+<img src="img/input.gif" alt="pic" class="inline"/><br>
+<img src="img/output.gif" alt="gif" class="inline"/><br>
 
 #### Type-2 Diabetes
 - Worked in Data Mining and Machine Learning on real data of around 12k patients containing 373+ attributes in collaboration with Diacare Diabetes Center.
