@@ -11,7 +11,9 @@ Currently pursuing Computer Engineer from Nirma University, Ahmedabad, India. Wo
 
 # Skills
 - Programming Languages: Python, C
-- Frameworks: Tensorflow, Keras 
+- Tools: Anaconda, Matlab, Jupyter Notebook, Eclipse, Xampp, Spyder
+- Frameworks: Tensorflow, Keras, Scikit-Learn 
+- System: Windos(98/vista/7/8/8.1/10), Linux, Ubuntu
 
 # Research
 Currently, I am involved in a research project of Multiple Organ Segmentation and NLP using Deep Learning.
@@ -28,9 +30,10 @@ Currently, I am involved in a research project of Multiple Organ Segmentation an
 #### Object Identification
 - Implemented YOLO v2/v3 on custom objects which converts high resolution images to low resolution images and try to detect the objects.
 - Worked on Retinanet (RESNET50) which maintains the quality of image. 
+- Currently working on Satellite Images.
 
 #### Type-2 Diabetes
-- Worked in Data Mining and Machine Learning on real data of around 12k patients containing 373+ attributes.
+- Worked in Data Mining and Machine Learning on real data of around 12k patients containing 373+ attributes in collaboration with Diacare Diabetes Center.
 - It included the triopathy of diabetes i.e. Nephropathy, Neuropathy and Retinopathy. 
 - The model act as an assistant of the doctor which helps in diagnosis of Nephropathy mainly.
 
